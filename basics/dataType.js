@@ -1,6 +1,7 @@
 const varn ="four"
 var age =18
-var name ="sumit"
+var name ="sumit kumar"
+var city = "jabalpur"
 
 
 
@@ -16,6 +17,8 @@ var name ="sumit"
 //null => standalone value and type  object
 //undefined =>
 // symbol => unique
+
+
 
 console.log(typeof undefined)
 
